@@ -1,1 +1,1 @@
-# MathQuiz
+It's a simple math quiz game, providing the player with a series of arithmetic problems and multiple-choice answers

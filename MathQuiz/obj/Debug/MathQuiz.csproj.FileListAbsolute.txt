@@ -1,0 +1,7 @@
+C:\Users\USER\Desktop\Projects\MathQuiz\MathQuiz\bin\Debug\MathQuiz.exe.config
+C:\Users\USER\Desktop\Projects\MathQuiz\MathQuiz\bin\Debug\MathQuiz.exe
+C:\Users\USER\Desktop\Projects\MathQuiz\MathQuiz\bin\Debug\MathQuiz.pdb
+C:\Users\USER\Desktop\Projects\MathQuiz\MathQuiz\obj\Debug\MathQuiz.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\Projects\MathQuiz\MathQuiz\obj\Debug\MathQuiz.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Projects\MathQuiz\MathQuiz\obj\Debug\MathQuiz.exe
+C:\Users\USER\Desktop\Projects\MathQuiz\MathQuiz\obj\Debug\MathQuiz.pdb
