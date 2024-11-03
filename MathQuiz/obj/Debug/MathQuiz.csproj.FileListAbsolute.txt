@@ -5,3 +5,7 @@ C:\Users\USER\Desktop\Projects\MathQuiz\MathQuiz\obj\Debug\MathQuiz.csproj.Assem
 C:\Users\USER\Desktop\Projects\MathQuiz\MathQuiz\obj\Debug\MathQuiz.csproj.CoreCompileInputs.cache
 C:\Users\USER\Desktop\Projects\MathQuiz\MathQuiz\obj\Debug\MathQuiz.exe
 C:\Users\USER\Desktop\Projects\MathQuiz\MathQuiz\obj\Debug\MathQuiz.pdb
+C:\Users\USER\Desktop\Projects\MathQuiz\MathQuiz\bin\Debug\MathQuiz.exe.manifest
+C:\Users\USER\Desktop\Projects\MathQuiz\MathQuiz\bin\Debug\MathQuiz.application
+C:\Users\USER\Desktop\Projects\MathQuiz\MathQuiz\obj\Debug\MathQuiz.exe.manifest
+C:\Users\USER\Desktop\Projects\MathQuiz\MathQuiz\obj\Debug\MathQuiz.application

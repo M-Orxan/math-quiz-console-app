@@ -31,12 +31,12 @@ namespace MathQuiz
             int questionsCountPerGame;
             int totalQuestionsCount = 0;
             double accuracyRate;
-            bool shouldContinue = true;
+            bool playAgain = true;
             bool resetGameStatistics;
 
             Console.WriteLine("Welcome to Math Quiz");
 
-            while (shouldContinue)
+            while (playAgain)
             {
 
                 Console.WriteLine("How many questions do you want:");
@@ -104,9 +104,9 @@ namespace MathQuiz
                 Console.WriteLine();
                 Console.WriteLine("Do you want to play again? Yes or no:");
                 userInput = Console.ReadLine();
-                shouldContinue = ShouldContinue(userInput);
+                playAgain = AskToPlayAgain(userInput);
 
-                if (shouldContinue)
+                if (playAgain)
                 {
                     Console.WriteLine("Do you want to reset game statistics? Yes or no:");
                     userInput = Console.ReadLine();
@@ -237,7 +237,7 @@ namespace MathQuiz
 
 
 
-        static bool ShouldContinue(string input)
+        static bool AskToPlayAgain(string input)
         {
 
             bool result = false;
@@ -308,6 +308,9 @@ namespace MathQuiz
 
         }
 
+
+
+        
 
 
 
